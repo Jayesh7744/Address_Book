@@ -41,7 +41,6 @@ public class AddressBook {
         ZipCode = sc.nextInt();
 
         System.out.println("Enter Mobile no ");
-        sc.next();
         mobileNumber = sc.nextInt();
 
         System.out.println("Enter EmailId ");
